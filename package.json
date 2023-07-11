@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "express 없이 nodejs 만으로 웹서버 구현이 목적인 프로젝트입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeonuk44/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "yeonuk44",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeonuk44/nodejs/issues"
+  },
+  "homepage": "https://github.com/yeonuk44/nodejs#readme"
+}
